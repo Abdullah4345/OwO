@@ -11,7 +11,7 @@
 Skalle is a handy add-on for Volatility that lets you run it in a graphical user interface. It also adds some cool features like a quick search that highlights matching words, and a new feature called CTF that scans the output for a matching string or a flag from the dataset.
 
 <h2>Main Menu</h2>
-<img src="https://media-hosting.imagekit.io/22b7662438084dd5/Screenshot%202025-05-12%20at%208.56.31%E2%80%AFPM.png?Expires=1841680625&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=u5TI3RwUJr74gxb~Sxi7NRjoulEEojFDelc7pjawOVRTvrCreB29H5y1nvSf3Y4RGwSZ4kzoaJAPXvoyy8u4tYGnOyuBXNChP56jt7lwsUvDI4KxFgkb2toW9y50fgjG-HylQaKCMlzkcN1gpaJbXZbVLcT5JSBgRR0FnQTsp3YYeibp5lLMBnVdEClMSTPm13y4w0Rppa5pmoBoDn6L6OE57gQ1dd7ZMGOh2HarKW4sh360GQGOAeH-~KKggj6dTcmjA8eZybJ0vXzOcLCZiPa8MrSJvNtgp17VmGGgmqXnuSOghetbexYDZOic9q1dym9c3RX6lY96hwVJe6hRqw__" alt="Main Menu"">
+<img src="https://ik.imagekit.io/jyx7871cz/IMG_5674.PNG?updatedAt=1747484081554" alt="Main Menu">
 
 <hr style="width: 100%; border: none; border-top: 2px solid black; margin: 0;">
 <pre style="background-color: white; color: black; padding: 10px;">
