@@ -23,3 +23,4 @@ Skalle is a handy add-on for Volatility that lets you run it in a graphical user
 Supervised by: <a href="https://www.linkedin.com/in/maryam-adel-4539b8170" style="display: none;">Dr. Maryam Adel</a>
 </pre>
 
+## **_JINX_**
