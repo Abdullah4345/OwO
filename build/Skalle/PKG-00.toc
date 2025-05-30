@@ -1,0 +1,62 @@
+('/Users/abdullah/University/Year Two/Second-term/Digital '
+ 'Forensics/Skalle/build/Skalle/Skalle.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   '/Users/abdullah/University/Year Two/Second-term/Digital '
+   'Forensics/Skalle/build/Skalle/PYZ-00.pyz',
+   'PYZ'),
+  ('lib-dynload/_struct.cpython-313-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload/_struct.cpython-313-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/zlib.cpython-313-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/lib-dynload/zlib.cpython-313-darwin.so',
+   'EXTENSION'),
+  ('struct',
+   '/Users/abdullah/University/Year Two/Second-term/Digital '
+   'Forensics/Skalle/build/Skalle/localpycs/struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '/Users/abdullah/University/Year Two/Second-term/Digital '
+   'Forensics/Skalle/build/Skalle/localpycs/pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '/Users/abdullah/University/Year Two/Second-term/Digital '
+   'Forensics/Skalle/build/Skalle/localpycs/pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '/Users/abdullah/University/Year Two/Second-term/Digital '
+   'Forensics/Skalle/build/Skalle/localpycs/pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '/Users/abdullah/University/Year Two/Second-term/Digital '
+   'Forensics/Skalle/.venv/lib/python3.13/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   '/Users/abdullah/University/Year Two/Second-term/Digital '
+   'Forensics/Skalle/.venv/lib/python3.13/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   '/Users/abdullah/University/Year Two/Second-term/Digital '
+   'Forensics/Skalle/.venv/lib/python3.13/site-packages/PyInstaller/hooks/rthooks/pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('main',
+   '/Users/abdullah/University/Year Two/Second-term/Digital '
+   'Forensics/Skalle/main.py',
+   'PYSOURCE')],
+ 'Python',
+ True,
+ False,
+ False,
+ [],
+ 'arm64',
+ None,
+ None)
